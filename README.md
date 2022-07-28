@@ -2,7 +2,7 @@
 
 Run a google reverse proxy using golang on Heroku.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/XI11A/proxy-server-heroku)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/freak-head/proxy-server-heroku)
 
 ## Installation 
 -  Deploy Button
